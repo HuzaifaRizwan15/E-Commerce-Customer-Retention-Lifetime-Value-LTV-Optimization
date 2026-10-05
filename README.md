@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Customer Retention & Churn Intelligence Pipeline
+# E-Commerce Customer Retention & Churn Intelligence Pipeline
 
 An end-to-end Data Analytics and Machine Learning project that transforms raw retail transaction logs into an actionable predictive churn dashboard. This project covers database normalization, advanced SQL feature engineering, scikit-learn classification modeling, and an interactive Streamlit web application.
 
